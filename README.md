@@ -1,4 +1,4 @@
-# Scripts SQL para Operações na Tabela de Produtos
+# Teste de SQL - protitanSoftwareERP
 
 ## 1. Inserir o registro na tabela de produtos
 ```sql
